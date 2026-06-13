@@ -12,9 +12,6 @@
 
 * Favourite movie project
 
-#### Time Spent
-
-* 0 Hours
 
 #### Notes
 
@@ -33,7 +30,7 @@
 
  * self closing tag
  -<hr/> this tag means to horizontal row -- this tag seperates the uper and lower content with the horizontal line.
- -<br/> this rag means to break row -- this just break the row and then start the next item or text from the next row.
+ -<br> this rag means to break row -- this just break the row and then start the next item or text from the next row.
  
 
 ---
